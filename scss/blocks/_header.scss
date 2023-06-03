@@ -1,0 +1,23 @@
+.navbar{
+    background-color: $bg-color-header;
+    padding: 8px 100px;
+
+    .navbar-brand{
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 59px;
+    }
+    .navbar-nav{
+        gap: 29px;
+    }
+    .nav-link{
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 44px;
+    }
+}
+
+.header{
+    background-color: $bg-color-main1;
+    height: 1202px;
+}
